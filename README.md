@@ -67,6 +67,9 @@ Unity supports WebGL, desktop, VR, AR, and mobile—allowing GBL apps to reach c
 * Building a Educational Game in Unity 3D
 * https://www.youtube.com/watch?app=desktop&v=ZuH2f0knvh8
 
+* Unity Learn Game Design Document
+* https://learn.unity.com/tutorial/fill-out-a-game-design-document#64cd0e2dedbc2a798e423ccf
+
 ---
 
 ## 🎨 Rapid UI Prototyping with the Unity Asset Store
@@ -91,6 +94,7 @@ Using these assets early helps teams validate UX flows quickly before committing
 
 * UI Kit For Vision Pro OS
 * https://assetstore.unity.com/packages/tools/gui/ui-kit-for-vision-pro-os-265406
+
 ---
 
 ## 🛠️ Workflow for Prototyping UI with Asset Store Packages
@@ -351,5 +355,11 @@ https://assetstore.unity.com/packages/tools/game-toolkits/basiclanguage-dialogsy
 
 Language Learning Game:
 https://www.youtube.com/watch?v=ql55ndPXSzE
+
+TMP Effects:
+https://www.youtube.com/watch?v=oBkplJ8N_NY
+
+Text Animator:
+https://assetstore.unity.com/packages/tools/gui/text-animator-for-unity-ui-toolkit-and-text-mesh-pro-341308
 
 ---
