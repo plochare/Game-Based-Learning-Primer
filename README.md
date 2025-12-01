@@ -62,13 +62,16 @@ Game-Based Learning: 11 Tips To Get It Right
 
 ---
 
-## GBL Video Tutorial
+## Game Design Resources
 
 Building a Educational Game in Unity 3D
 * https://www.youtube.com/watch?app=desktop&v=ZuH2f0knvh8
 
 Unity Learn Game Design Document
 * https://learn.unity.com/tutorial/fill-out-a-game-design-document#64cd0e2dedbc2a798e423ccf
+
+Basic Guide to Game UX Design
+* https://www.protopie.io/blog/game-ux-design
 
 ---
 
