@@ -262,7 +262,9 @@ Gameplay focused on **environmental storytelling, spatial navigation, and discov
 
 Classic infinite movement loops where players avoid obstacles, collect items, or maintain rhythm. These prototypes often emphasized **reflex-based learning**, **pattern recognition**, or **reinforcement through repetition**. Endless runners are effective for practicing speed, focus, and timed decision-making.
 
+* Endless Runner Template
 * https://assetstore.unity.com/packages/templates/tutorials/endless-runner-sample-game-87901
+* Publish your first mobile runner game
 * https://learn.unity.com/tutorial/publish-your-first-mobile-runner-game#63e9c88eedbc2a297b640566
 
 ---
