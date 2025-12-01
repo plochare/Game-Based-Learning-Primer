@@ -242,7 +242,7 @@ After reviewing the submissions, the students explored a wide range of mechanics
 
 Players must **manage resources, allocate tasks, and balance constraints** over time. Learning outcomes often targeted **strategic decision-making**, **systems thinking**, and **prioritization skills**. Mechanics included building placement, resource harvesting, budget management, and time-based production.
 
-* Basics of city builder/resource management: 
+Basics of city builder/resource management: 
 * https://www.youtube.com/watch?v=n5EN2J2FxOQ
 * https://gamedevacademy.org/unity-city-building-game-tutorial
 
@@ -252,8 +252,10 @@ Players must **manage resources, allocate tasks, and balance constraints** over 
 
 Gameplay focused on **environmental storytelling, spatial navigation, and discovery**. Learning was embedded through exploring scenes, triggering information nodes, and interacting with objects. Common learning goals included **observation**, **interpretation**, and **contextual knowledge acquisition**.
 
-* FPS Microgame Template
+FPS Microgame Template
 * https://assetstore.unity.com/packages/templates/unity-learn-fps-microgame-urp-156015
+
+Create a FPS Microgame in Unity
 * https://www.youtube.com/watch?v=5W41yZ6JjI0
 
 ---
@@ -262,9 +264,9 @@ Gameplay focused on **environmental storytelling, spatial navigation, and discov
 
 Classic infinite movement loops where players avoid obstacles, collect items, or maintain rhythm. These prototypes often emphasized **reflex-based learning**, **pattern recognition**, or **reinforcement through repetition**. Endless runners are effective for practicing speed, focus, and timed decision-making.
 
-* Endless Runner Template
+Endless Runner Template
 * https://assetstore.unity.com/packages/templates/tutorials/endless-runner-sample-game-87901
-* Publish your first mobile runner game
+Publish your first mobile runner game
 * https://learn.unity.com/tutorial/publish-your-first-mobile-runner-game#63e9c88eedbc2a297b640566
 
 ---
@@ -273,9 +275,9 @@ Classic infinite movement loops where players avoid obstacles, collect items, or
 
 Projects in this category involved **character-based movement**, environmental interaction, and light puzzle-solving. Students used third-person controllers to deliver learning through **interaction sequences**, **collectables**, and **narrative triggers**. These prototypes highlight learner agency and guided exploration.
 
-* Smooth Camera Third Person
+Smooth Camera Third Person
 * https://www.youtube.com/watch?v=o7O28SFGWS4
-* Character Controller
+Character Controller
 * https://www.youtube.com/playlist?list=PLBcfp6HMOJwzDcdCzoAx3jJKm7sIcBXJZ
 
 ---
@@ -284,13 +286,13 @@ Projects in this category involved **character-based movement**, environmental i
 
 Familiar classs concentration game focused on **cognitive training**, pattern memory, and recall. Gameplay typically involved matching pairs or solving themed card sets tied to a learning domain (language, science, history, etc.). These prototypes reinforce **short-term and working memory** skills. Having worked on a few of these in the past, an effective learning feedback practice, after a successful match is a prompt that displays information related to the card content.
 
-* 3D Memory Match:
+3D Memory Match:
 * https://www.youtube.com/watch?v=Hhqfi2-NsNI
 
-* Asset Store Shsder Graph Edge
+Asset Store Shsder Graph Edge
 * https://assetstore.unity.com/packages/vfx/shaders/ui-shader-effects-edge-effects-291229
 
-* Shader Graph Tutorials:
+Shader Graph Tutorials:
 * https://learn.unity.com/tutorial/introduction-to-shader-graph
 * https://www.youtube.com/watch?v=TbZYoSu1w8Y
 * https://www.youtube.com/watch?v=x1-3sZDjeyk
@@ -301,14 +303,14 @@ Familiar classs concentration game focused on **cognitive training**, pattern me
 
 Avoiding detection/contact from enemy patrol using player mechanics to find ways of escape . Learning was connected to **strategy**, **timing**, **risk assessment**, and **spatial problem-solving**. v
 
-* Stealth Game Tutorial
-https://learn.unity.com/course/3d-stealth-game-haunted-house
+Stealth Game Tutorial
+* https://learn.unity.com/course/3d-stealth-game-haunted-house
 
-* Animating Chicken Tutorial/Asset
+Animating Chicken Tutorial/Asset
 * https://www.youtube.com/watch?v=dg9SZytofIE&t=261s
 * https://assetstore.unity.com/packages/3d/characters/animals/birds/chicken-animated-173605
 
-* Pet Chase Game Mechanic Asset
+Pet Chase Game Mechanic Asset
 * https://assetstore.unity.com/packages/templates/packs/pet-chase-game-template-170751
 
 ---
@@ -318,10 +320,10 @@ https://learn.unity.com/course/3d-stealth-game-haunted-house
 Physics-based prototypes involve throwing or launching objects to hit targets or complete challenges which introduces physics components and force-based mechanics.
 
 3D Pathfinding:
-https://www.youtube.com/watch?v=mJu-zdZ9dyE
+* https://www.youtube.com/watch?v=mJu-zdZ9dyE
 
 3D Animation System:
-https://learn.unity.com/course/introduction-to-3d-animation-systems/unit/working-with-assets/tutorial/2-1-animation-window-features-and-settings?version=2019.4#5f34730eedbc2a002195db74
+* https://learn.unity.com/course/introduction-to-3d-animation-systems/unit/working-with-assets/tutorial/2-1-animation-window-features-and-settings?version=2019.4#5f34730eedbc2a002195db74
 
 ---
 
@@ -330,13 +332,13 @@ https://learn.unity.com/course/introduction-to-3d-animation-systems/unit/working
 Gameplay revolved around collecting objects within a time limit. These prototypes support learning through **prioritization**, **navigation**, **speed**, and **task sequencing**. Students explored collectible spawning, timers, UI feedback, and reward loops.
 
 Collect The Collectible
-https://learn.unity.com/pathway/unity-essentials/unit/programming-essentials/tutorial/collect-the-collectible
+* https://learn.unity.com/pathway/unity-essentials/unit/programming-essentials/tutorial/collect-the-collectible
 
 Build Open World:
-https://www.youtube.com/watch?v=WbZpj8WcjN0
+* https://www.youtube.com/watch?v=WbZpj8WcjN0
 
 Inventory Manager: 
-https://www.youtube.com/watch?v=AoD_F1fSFFg
+* https://www.youtube.com/watch?v=AoD_F1fSFFg
 
 ---
 
@@ -344,13 +346,13 @@ https://www.youtube.com/watch?v=AoD_F1fSFFg
 
 Multiple-choice quiz systems integrated with gameplay loops such as scoring, feedback, and progress tracking. These prototypes align strongly with **knowledge reinforcement**, **retrieval practice**, and **self-assessment**. Designs included question databases, UI panels, and correctness animations.
 
-* Quiz Toolkit Asset:
-https://assetstore.unity.com/packages/essentials/tutorial-projects/quizu-a-ui-toolkit-sample-268492
+Quiz Toolkit Asset:
+* https://assetstore.unity.com/packages/essentials/tutorial-projects/quizu-a-ui-toolkit-sample-268492
 
-* Make a Quiz Game with Multiple Choices in Unity:
+Make a Quiz Game with Multiple Choices in Unity:
 * https://www.youtube.com/watch?v=G9QDFB2RQGA
 
-* Unity AR Quiz Game
+Unity AR Quiz Game
 * https://www.youtube.com/watch?v=svYMrgkczrw
 
 ---
@@ -360,15 +362,15 @@ https://assetstore.unity.com/packages/essentials/tutorial-projects/quizu-a-ui-to
 Prototypes combine vocabulary, pronunciation, or grammar tasks with engaging mechanics like matching, selecting, or arranging items. Learning outcomes focused on **language acquisition**, **recognition**, and **repetition**. Several projects integrated audio clips, iconography, and contextual learning tasks.
 
 Dialog System: https://gamedevbeginner.com/dialogue-systems-in-unity/
-https://assetstore.unity.com/packages/tools/game-toolkits/basiclanguage-dialogsystem-224467
+* https://assetstore.unity.com/packages/tools/game-toolkits/basiclanguage-dialogsystem-224467
 
 Language Learning Game:
-https://www.youtube.com/watch?v=ql55ndPXSzE
+* https://www.youtube.com/watch?v=ql55ndPXSzE
 
 TMP Effects:
-https://www.youtube.com/watch?v=oBkplJ8N_NY
+* https://www.youtube.com/watch?v=oBkplJ8N_NY
 
 Text Animator:
-https://assetstore.unity.com/packages/tools/gui/text-animator-for-unity-ui-toolkit-and-text-mesh-pro-341308
+* https://assetstore.unity.com/packages/tools/gui/text-animator-for-unity-ui-toolkit-and-text-mesh-pro-341308
 
 ---
