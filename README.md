@@ -2,7 +2,7 @@
 
 Game-Based Learning (GBL) blends instructional design with the motivational power of gameplay to create experiences that are interactive, meaningful, and memorable. Unity—one of the most widely used real-time 3D engines—provides a flexible framework for developing educational simulations, training tools, virtual labs, and serious games across platforms. This repository outlines key concepts, development patterns, and best practices for building GBL applications using Unity.
 
-* Why Use GBL?
+Why Use GBL?
 * https://www.universityxp.com/blog/2019/4/16/why-use-games-based-learning
 
 ---
@@ -64,10 +64,10 @@ Game-Based Learning: 11 Tips To Get It Right
 
 ## GBL Video Tutorial
 
-* Building a Educational Game in Unity 3D
+Building a Educational Game in Unity 3D
 * https://www.youtube.com/watch?app=desktop&v=ZuH2f0knvh8
 
-* Unity Learn Game Design Document
+Unity Learn Game Design Document
 * https://learn.unity.com/tutorial/fill-out-a-game-design-document#64cd0e2dedbc2a798e423ccf
 
 ---
@@ -84,15 +84,15 @@ Prototyping UI in Unity is fast, flexible, and highly visual, especially when le
 
 Using these assets early helps teams validate UX flows quickly before committing to custom art or deeper design.
 
-* Prototyping UI - Asset Store Resources
+Prototyping UI - Asset Store Resources
 * https://assetstore.unity.com/packages/tools/gui/lean-gui-72138
 * https://assetstore.unity.com/packages/tools/gui/3d-modern-menu-ui-116144
 * https://assetstore.unity.com/packages/2d/gui/pinky-ui-274048
 
-* Styling Unity UI Elementa:
+Styling Unity UI Elementa:
 * https://www.youtube.com/watch?v=IuuKUaZQiSU
 
-* UI Kit For Vision Pro OS
+UI Kit For Vision Pro OS
 * https://assetstore.unity.com/packages/tools/gui/ui-kit-for-vision-pro-os-265406
 
 ---
@@ -266,6 +266,7 @@ Classic infinite movement loops where players avoid obstacles, collect items, or
 
 Endless Runner Template
 * https://assetstore.unity.com/packages/templates/tutorials/endless-runner-sample-game-87901
+
 Publish your first mobile runner game
 * https://learn.unity.com/tutorial/publish-your-first-mobile-runner-game#63e9c88eedbc2a297b640566
 
@@ -277,6 +278,7 @@ Projects in this category involved **character-based movement**, environmental i
 
 Smooth Camera Third Person
 * https://www.youtube.com/watch?v=o7O28SFGWS4
+
 Character Controller
 * https://www.youtube.com/playlist?list=PLBcfp6HMOJwzDcdCzoAx3jJKm7sIcBXJZ
 
