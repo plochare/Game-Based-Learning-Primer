@@ -17,7 +17,7 @@ Game-Based Learning applies game mechanics, narrative, and interactive systems t
 * **Assessment mechanisms** that measure learner understanding through gameplay, not just quizzes
 * **Engaging stories, environments, or characters** that contextualize learning tasks
 
-* Game-Based Learning (Explained in 3 Minutes)
+Game-Based Learning (Explained in 3 Minutes)
 * https://www.youtube.com/watch?app=desktop&v=bZvLjAacVJg
 
 ---
@@ -57,7 +57,7 @@ Unity’s flexible scripting makes it easy to capture and export learning analyt
 
 Unity supports WebGL, desktop, VR, AR, and mobile—allowing GBL apps to reach classrooms, training centers, and remote learners. Always optimize performance and UX for the target device.
 
-* Game-Based Learning: 11 Tips To Get It Right
+Game-Based Learning: 11 Tips To Get It Right
 * http://playxlpro.com/11-tips-to-get-game-based-learning-right/
 
 ---
