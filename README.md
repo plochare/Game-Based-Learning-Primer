@@ -299,12 +299,15 @@ Familiar classs concentration game focused on **cognitive training**, pattern me
 
 Avoiding detection/contact from enemy patrol using player mechanics to find ways of escape . Learning was connected to **strategy**, **timing**, **risk assessment**, and **spatial problem-solving**. v
 
+* Stealth Game Tutorial
 https://learn.unity.com/course/3d-stealth-game-haunted-house
 
-https://www.youtube.com/watch?v=dg9SZytofIE&t=261s
-https://assetstore.unity.com/packages/3d/characters/animals/birds/chicken-animated-173605
+* Animating Chicken Tutorial/Asset
+* https://www.youtube.com/watch?v=dg9SZytofIE&t=261s
+* https://assetstore.unity.com/packages/3d/characters/animals/birds/chicken-animated-173605
 
-https://assetstore.unity.com/packages/templates/packs/pet-chase-game-template-170751
+* Pet Chase Game Mechanic Asset
+* https://assetstore.unity.com/packages/templates/packs/pet-chase-game-template-170751
 
 ---
 
@@ -339,10 +342,14 @@ https://www.youtube.com/watch?v=AoD_F1fSFFg
 
 Multiple-choice quiz systems integrated with gameplay loops such as scoring, feedback, and progress tracking. These prototypes align strongly with **knowledge reinforcement**, **retrieval practice**, and **self-assessment**. Designs included question databases, UI panels, and correctness animations.
 
+* Quiz Toolkit Asset:
 https://assetstore.unity.com/packages/essentials/tutorial-projects/quizu-a-ui-toolkit-sample-268492
 
-https://www.youtube.com/watch?v=G9QDFB2RQGA
-https://www.youtube.com/watch?v=svYMrgkczrw
+* Make a Quiz Game with Multiple Choices in Unity:
+* https://www.youtube.com/watch?v=G9QDFB2RQGA
+
+* Unity AR Quiz Game
+* https://www.youtube.com/watch?v=svYMrgkczrw
 
 ---
 
